@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "66ac820dc0e43f6f9ae424c8"
+  },
+  "name": "Diksha",
+  "email": "sonidiksha1602@gmail.com",
+  "password": "$2b$10$l00CF29YW1Rb9lf7qWs0Mua/JLkR.Qmpn.K9rerQLcup3xtLgGzaC",
+  "cartData": {},
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66af7494e8f52bc93373e0f0"
+  },
+  "name": "Diksha",
+  "email": "badmashsunny545@gmail.com",
+  "password": "$2b$10$/zyS54Qv0bW7m5sAVAy98uonsYx17X12VqU8gY7RDdbQNw1vFGpcW",
+  "cartData": {},
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b452015939ef408bd370b6"
+  },
+  "name": "Taniya ",
+  "email": "sonitanu@gmail.com",
+  "password": "$2b$10$jY32iMCvgtYNRlYFyi7nh.gr3cdOkVowN7Ho5IlJaZusOZaP6Ughy",
+  "cartData": {},
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b453295939ef408bd370d2"
+  },
+  "name": "shruti",
+  "email": "soni@gmail.com",
+  "password": "$2b$10$wnhEGJfQ2TZhYxU7YIhliOZ8kT744bbON0qbm84ju.QQtixHXyHAy",
+  "cartData": {},
+  "__v": 0
+}]

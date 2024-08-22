@@ -1,0 +1,352 @@
+[{
+  "_id": {
+    "$oid": "66ac84c5c0e43f6f9ae424eb"
+  },
+  "name": "Paneer Roll",
+  "description": "Paneer Roll",
+  "price": 25,
+  "image": "1722582213196food_5.jpg",
+  "category": "Rolls",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ac858fc0e43f6f9ae424f7"
+  },
+  "name": "Veg Roll",
+  "description": "Veg Roll",
+  "price": 24,
+  "image": "1722582415377food_6.jpg",
+  "category": "Rolls",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ac85c0c0e43f6f9ae424f9"
+  },
+  "name": "Tandoori Roll",
+  "description": "Rolls are very delicious and healthy.",
+  "price": 25,
+  "image": "1722582464024food_7.jpg",
+  "category": "Rolls",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ac85e4c0e43f6f9ae424fb"
+  },
+  "name": "Chicken Roll",
+  "description": "Healthy Food.",
+  "price": 24,
+  "image": "1722582500844food_8.jpg",
+  "category": "Rolls",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ac861bc0e43f6f9ae424ff"
+  },
+  "name": "Custard",
+  "description": "Delicious and sweet food.",
+  "price": 23,
+  "image": "1722582555876food_9.jpg",
+  "category": "Deserts",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ac8643c0e43f6f9ae42501"
+  },
+  "name": "Strawberry Cake",
+  "description": "healthy food.",
+  "price": 26,
+  "image": "1722582595275food_10.avif",
+  "category": "Deserts",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ac866ac0e43f6f9ae42503"
+  },
+  "name": "Cookies.",
+  "description": "Tasty and Healthy.",
+  "price": 24,
+  "image": "1722582634648food_11.jpg",
+  "category": "Deserts",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ac868cc0e43f6f9ae42505"
+  },
+  "name": "Soups",
+  "description": "Tasty .",
+  "price": 24,
+  "image": "1722582668908food_12.jpg",
+  "category": "Deserts",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ac86e0c0e43f6f9ae42509"
+  },
+  "name": "Grilled Sandwich",
+  "description": "Tasty and healthy.",
+  "price": 25,
+  "image": "1722582752723food_14.jpg",
+  "category": "Sandwich",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ac8711c0e43f6f9ae42510"
+  },
+  "name": "Veg Sandwich",
+  "description": "Tasty and Healthy.",
+  "price": 24,
+  "image": "1722582801845food_13.jpg",
+  "category": "Sandwich",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ac8739c0e43f6f9ae42512"
+  },
+  "name": "Corn Sandwich.",
+  "description": "Tasty and Healthy.",
+  "price": 25,
+  "image": "1722582841061food_15.jpg",
+  "category": "Sandwich",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ac8773c0e43f6f9ae42514"
+  },
+  "name": "Paneer Sandwich.",
+  "description": "Tasty and Healthy.",
+  "price": 26,
+  "image": "1722582899157food_16.jpg",
+  "category": "Sandwich",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ac87f3c0e43f6f9ae42518"
+  },
+  "name": "Cake",
+  "description": "Chocolate Cake is very sweet and delicious.",
+  "price": 26,
+  "image": "1722583027850food_17.jpeg",
+  "category": "Cake",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ac8828c0e43f6f9ae4251a"
+  },
+  "name": "Cup Cake",
+  "description": "Delicious and Sweet.",
+  "price": 20,
+  "image": "1722583080951food_18.avif",
+  "category": "Cake",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ac8850c0e43f6f9ae4251c"
+  },
+  "name": "Foam Cake",
+  "description": "Delicious and Sweet.",
+  "price": 25,
+  "image": "1722583120448food_19.jpg",
+  "category": "Cake",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ac8875c0e43f6f9ae4251e"
+  },
+  "name": "Strawberry Cake",
+  "description": "Tasty and Healthy.",
+  "price": 24,
+  "image": "1722583157480food_20.jpeg",
+  "category": "Cake",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ac889dc0e43f6f9ae42520"
+  },
+  "name": "Veg Thali",
+  "description": "Indian Food is very delicious.",
+  "price": 26,
+  "image": "1722583197754food_21.jpg",
+  "category": "Pure Veg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ac88dbc0e43f6f9ae42524"
+  },
+  "name": "Rice",
+  "description": "Rice are the most common food for all Indians.",
+  "price": 26,
+  "image": "1722583259889food_22.jpg",
+  "category": "Pure Veg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ac8906c0e43f6f9ae42526"
+  },
+  "name": "Dosa",
+  "description": "Delicious and Tasty Food.",
+  "price": 24,
+  "image": "1722583302153food_23.jpg",
+  "category": "Pure Veg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ac8937c0e43f6f9ae42528"
+  },
+  "name": "Idli",
+  "description": "Delicious and Tasty.",
+  "price": 28,
+  "image": "1722583351249food_24.jpg",
+  "category": "Pure Veg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ac8979c0e43f6f9ae4252a"
+  },
+  "name": "Red Sauce Pasta.",
+  "description": "Healthy and Delicious.",
+  "price": 24,
+  "image": "1722583417724food_25.jpg",
+  "category": "Pasta",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ac89d7c0e43f6f9ae4252e"
+  },
+  "name": "Tandoori Pasta",
+  "description": "Delicious and Tasty.",
+  "price": 24,
+  "image": "1722583511141food_27.jpg",
+  "category": "Pasta",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66af6a4a1e8a2237402154fc"
+  },
+  "name": "Greek Salad ",
+  "description": "Delicious and Healthy Food.",
+  "price": 20,
+  "image": "1722772042404food_1.jpg",
+  "category": "Salad",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66af6a701e8a2237402154fe"
+  },
+  "name": "Veg Salad",
+  "description": "Delicious and Healthy Food.",
+  "price": 23,
+  "image": "1722772080610food_2.jpg",
+  "category": "Salad",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66af6a911e8a223740215500"
+  },
+  "name": "Clover Salad",
+  "description": "Delicious and Healthy Food.",
+  "price": 25,
+  "image": "1722772113884food_3.jpg",
+  "category": "Salad",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66af6ab21e8a223740215502"
+  },
+  "name": "Chicken Salad",
+  "description": "Delicious and Healthy Food.",
+  "price": 25,
+  "image": "1722772146986food_4.avif",
+  "category": "Salad",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66af6b0b1e8a223740215506"
+  },
+  "name": "White Sauce Pasta",
+  "description": "Delicious and Healthy.",
+  "price": 24,
+  "image": "1722772235944food_26.jpg",
+  "category": "Pasta",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66af6b381e8a223740215508"
+  },
+  "name": "Chicken Pasta",
+  "description": "Delicious and Healthy",
+  "price": 26,
+  "image": "1722772280385food_28.jpg",
+  "category": "Pasta",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66af6b671e8a22374021550a"
+  },
+  "name": "Hakka Noodles",
+  "description": "Delicious and Healthy Food.",
+  "price": 24,
+  "image": "1722772327706food_29.jpg",
+  "category": "Noodles",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66af6b971e8a22374021550c"
+  },
+  "name": "Schezwan Noodles",
+  "description": "Delicious and Healthy Food.",
+  "price": 27,
+  "image": "1722772375455food_30.jpg",
+  "category": "Noodles",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66af6bba1e8a22374021550e"
+  },
+  "name": "Chilli Garlic Noodles",
+  "description": "Delicious and Healthy.",
+  "price": 25,
+  "image": "1722772410642food_31.jpg",
+  "category": "Noodles",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66af6be11e8a223740215510"
+  },
+  "name": "Egg Noodles.",
+  "description": "Delicious and Healthy.",
+  "price": 25,
+  "image": "1722772449130food_32.png",
+  "category": "Noodles",
+  "__v": 0
+}]

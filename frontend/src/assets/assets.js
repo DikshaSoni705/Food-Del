@@ -1,6 +1,6 @@
 import basket_icon from './basket_icon.png'
-import logo from './logo.png'
-import header_img from './header_img.png'
+import hungry1 from './hungry1.png'
+import header1 from './header1.jpeg'
 import search_icon from './search_icon.png'
 import menu_1 from './menu_1.png'
 import menu_2 from './menu_2.png'
@@ -63,9 +63,9 @@ import checked from './checked.png'
 import un_checked from './un_checked.png'
 
 export const assets = {
-    logo,
+    hungry1,
     basket_icon,
-    header_img,
+    header1,
     search_icon,
     rating_starts,
     add_icon_green,
